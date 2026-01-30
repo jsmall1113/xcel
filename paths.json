@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/xcel/language-masters/en:/",
+    "/content/xcel/language-masters/en/:/en/",
+    "/content/xcel/language-masters/fr/:/fr/",
+    "/content/xcel/language-masters/fr:/fr",
+    "/content/xcel/language-masters/es/:/es/",
+    "/content/xcel/language-masters/es:/es",
+    "/content/xcel/language-masters/ja/:/ja/",
+    "/content/xcel/language-masters/ja:/ja",
+    "/content/xcel/language-masters/de/:/de/",
+    "/content/xcel/language-masters/de:/de",
+    "/content/xcel/configuration:/.helix/config.json",
+    "/content/xcel/metadata:/metadata.json",
+    "/content/xcel/redirects:/redirects.json",
+    "/content/xcel/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/xcel/",
+    "/content/dam/xcel/"
   ]
 }
